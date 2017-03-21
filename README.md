@@ -1,1 +1,2 @@
 # runtimeModel2Dict
+一个分类用于runtime字典转模型
